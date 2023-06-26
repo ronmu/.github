@@ -1,4 +1,4 @@
-## Ronmu 👋
+## ronmu 👋
 
 🙋‍♀️ Introduction
 - what is your organization all about?
